@@ -1,0 +1,1 @@
+I don't use every skill I've learned on a daily basis. This repo is designed to keep me fresh by taking courses and working on small data and/or coding projects. To the outside world, this is a very boring repo.
